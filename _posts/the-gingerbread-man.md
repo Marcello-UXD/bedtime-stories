@@ -2,6 +2,8 @@
 source-site: "http://ah_coo.tripod.com/bedtime_stories.htm"
 source: "http://ah_coo.tripod.com/bedtime_stories.htm"
 copyright-category: public-domain
+title: "The Gingerbread Man"
+permalink: /The-Gingerbread-Man/
 ---
 
 # The Gingerbread Man
