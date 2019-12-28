@@ -1,7 +1,9 @@
 ---
 title: "The Gingerbread Man"
 layout: post
-permalink: /The-Gingerbread-Man/
+permalink: /the-gingerbread-man/
+age-min: 3
+age-max: 10
 source-site: "http://ah_coo.tripod.com/bedtime_stories.htm"
 source: "http://ah_coo.tripod.com/bedtime_stories.htm"
 copyright-category: public-domain
